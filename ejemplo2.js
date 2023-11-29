@@ -15,9 +15,7 @@ var miAnimal = {
   var presentacionAnimal = miAnimal.presentarse();
   
 
-  console.log("Presentación del animal:");
   console.log(presentacionAnimal);
   
-  console.log("Sonido del animal:");
   console.log(sonidoAnimal);
   
