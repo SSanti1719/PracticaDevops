@@ -1,9 +1,9 @@
 var miAnimal = {
-    nombre: "Tigre",
+    nombre: "Gato",
     tipo: "Felino",
-    edad: 7,
+    edad: 1,
     hacerSonido: function() {
-      return "Rugido";
+      return "Meow";
     },
     presentarse: function() {
       return "Hola, soy un " + this.tipo + " llamado " + this.nombre + ".";
